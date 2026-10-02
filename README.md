@@ -2,7 +2,7 @@
 
 Greenden is a responsive online plant-selling website designed with a clean and modern interface for browsing plants and exploring plant products.
 
-🌐 Live Website: [Add your website link here]
+🌐 Live Website: https://ayishasheerin.github.io/Greenden-Plant-website---tailwind/
 
 📌 Pages
 
